@@ -1,3 +1,26 @@
+## python_mrpt_ros (jazzy) - 2.14.8-1
+
+The packages in the `python_mrpt_ros` repository were released into the `jazzy` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r jazzy -y python_mrpt_ros` on `Fri, 25 Apr 2025 09:17:21 -0000`
+
+The `python_mrpt` package was released.
+
+Version of package(s) in repository `python_mrpt_ros`:
+
+- upstream repository: https://github.com/MRPT/python_mrpt_ros.git
+- release repository: https://github.com/ros2-gbp/python_mrpt_ros-release.git
+- rosdistro version: `2.14.7-1`
+- old version: `2.14.7-1`
+- new version: `2.14.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## python_mrpt_ros (humble) - 2.14.8-1
 
 The packages in the `python_mrpt_ros` repository were released into the `humble` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r humble -y python_mrpt_ros` on `Fri, 25 Apr 2025 09:15:09 -0000`
